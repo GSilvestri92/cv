@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Giulio Silvestri',
-  title: 'Data Engineer - Data Science Enthusiast',
+  title: 'Data Engineer',
   facts: {
     'Residence': 'Fisciano',
     'Email': '<a href="mailto:giulio.silve92@gmail.com"><i class="fa fa-envelope fact-icon"></i>giulio.silve92@gmail.com</a>'
@@ -25,7 +25,7 @@ module.exports = {
       period: '03/2024 – Current',
       skills: ['GCP', 'Python', 'SQL'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Tech Lead for a project related to campaign automation on a big telco&media client.
 `
     },
     {
@@ -33,7 +33,7 @@ Prince Hamlet is visited by his father's ghost and ordered to avenge his father'
       period: '09/2022 – 03/2024',
       skills: ['GCP', 'Python', 'SQL'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+Supporting Tech Lead for a project related to campaign automation on a big telco&media client.
 `
     }
   ],
@@ -48,7 +48,12 @@ Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebast
       header: 'Google Cloud Associate Cloud Engineer',
       skills: ['GCP', 'Python', 'SQL'],
       contents: `
-      `
+`
     }
-  ]
+  ],
+  synopsis:'Data Engineer with a Master of Science in Artificial Intelligence and Data Engineering, passionate about transitioning in a position more closely related to ML and AI.
+  Currently working on GCP, I specialize in designing data models and processing pipelines, optimizing architectures for seamless information flow.
+  Eager to apply my skills in ML and AI, I bring a strong foundation in Python, SQL, TensorFlow, and more.
+  Committed to continuous learning, I'm ready to collaborate on impactful projects.'
+
 };
